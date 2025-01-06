@@ -1,4 +1,5 @@
 Add updated files to https://github.com/cypress-io/cypress-example-kitchensink
+NOTE: other tests will fail once files are updated!
 To test run npx cypress open to open cypress and finish E2E setup.
 Then, turn on cypress studio in the cypress.config.js with the following code
 `
