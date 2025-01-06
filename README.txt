@@ -6,6 +6,7 @@ e2e: {
     experimentalStudio:true,
   },
 `
+You also have to launch a local server to launch the website on to test.
 Then with the Cypress Studio Tool I created the tests to start testing all scenarios of the elements.
 
 Results:
