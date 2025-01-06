@@ -11,6 +11,6 @@ You also have to launch a local server to launch the website on to test.
 Then with the Cypress Studio Tool I created the tests to start testing all scenarios of the elements.
 
 Results:
-For the first name and last name fields, non-text characters including spaces are allowed and needs to be updated.
+For the first name and last name fields, non-text characters including spaces are allowed and need to be updated.
 For the Date field, the person's date of birth is allowed to be in the future which is not possible and needs to be restricted.
 No other errors noted.
